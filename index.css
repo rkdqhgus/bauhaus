@@ -1,0 +1,238 @@
+*{margin: 0;padding: 0;text-decoration: none;list-style-type: none;}
+.block01{
+    width: 100%;
+    height: 1080px;
+    background-color: #9babc8;
+    background-image: url(img/bg01.png);
+    background-repeat: no-repeat;
+    background-position-x: center;}
+    .txt01{
+        width: 1000px;
+        height: 1000px;
+        font-size: 23px;
+       font-family: "Noto Sans KR", sans-serif;
+       transform: translateX(10%) translateY(10%);
+       color: white;}
+.block02{
+    width: 100%;
+    height: 1080px;
+    background-image: url(img/bg02.png);}
+    .txt02{
+        width: 1000px;
+    height: 1000px;
+    font-size: 20px;
+    font-family: "Noto Sans KR", sans-serif;
+    transform: translateX(15%) translateY(4%);
+    color: black}
+    .txt03{
+    width: 1000px;
+    height: 1000px;
+    font-size: 20px;
+    font-family: "Noto Sans KR", sans-serif;
+    transform: translateX(40%) translateY(30%);
+    color: black}
+    .txt04{
+        width: 1000px;
+    height: 1000px;
+    font-size: 20px;
+    font-family: "Noto Sans KR", sans-serif;
+    transform: translateX(25%) translateY(-48%);
+    color: black}
+.block03{
+    width: 100%;
+    height: 1080px;
+    background-image: url(img/bg03.png);}
+    .txt05{
+        width: 1000px;
+        height:500px;
+        left: 50%;
+        top: 50%;
+        transform: translateX(5%) translateY(9%);
+        font-size: 28px;
+        letter-spacing: -0.5px;
+        line-height: 60px;
+        font-family: "Noto Sans KR", sans-serif;
+        font-weight: 500;
+        color: black}
+    .txt06{
+        width: 1000px;
+        height:1000px;
+        left: 50%;
+        top: 50%;
+        transform: translateX(70%) translateY(-29%);
+        font-size: 20px;
+        letter-spacing: -0.5px;
+        line-height: 30px;
+        font-family: "Noto Sans KR", sans-serif;
+        font-weight: 500;
+        color: black}
+    .txt07{ width: 1000px;
+        height:1000px;
+        left: 50%;
+        top: 50%;
+        transform: translateX(70%) translateY(-112%);
+        font-size: 20px;
+        letter-spacing: -0.5px;
+        line-height: 30px;
+        font-family: "Noto Sans KR", sans-serif;
+        font-weight: 500;
+        color: black}
+    .txt08{ width: 1000px;
+        height:1000px;
+        left: 50%;
+        top: 50%;
+        transform: translateX(70%) translateY(-192%);
+        font-size: 20px;
+        letter-spacing: -0.5px;
+        line-height: 30px;
+        font-family: "Noto Sans KR", sans-serif;
+        font-weight: 500;
+        color: black}
+        .txt09{ width: 1000px;
+            height: 500px;
+            left: 50%;
+            top: 50%;
+            transform: translateX(70%) translateY(-550%);
+            font-size: 20px;
+            letter-spacing: -0.5px;
+            line-height: 30px;
+            font-family: "Noto Sans KR", sans-serif;
+            font-weight: 500;
+            color: black}
+.block04{
+    width: 100%;
+    height: 1080px;
+    background-image: url(img/bg04.png);
+}
+       .txt010{
+        width: 100%;
+        height: 1080px;
+          transform: translateX(30.8%) translateY(11.5%);
+          font-family: "Noto Sans KR", sans-serif;
+       }
+       .txt011{
+        width: 100%;
+        height: 1080px;
+          transform: translateX(30.8%) translateY(-69%);
+          font-family: "Noto Sans KR", sans-serif;
+       }
+       .txt012{
+        width: 100%;
+        height: 1080px;
+          transform: translateX(30.8%) translateY(-145%);
+          font-family: "Noto Sans KR", sans-serif;
+       }
+       .txt013{
+        width: 100%;
+        height: 1080px;
+          transform: translateX(30.7%) translateY(-226.5%);
+          font-family: "Noto Sans KR", sans-serif;
+       }
+       .txt014{
+        width: 100%;
+        height: 1080px;
+          transform: translateX(30.7%) translateY(-382%);
+          font-family: "Noto Sans KR", sans-serif;
+       }
+       .txt015{
+        width: 100%;
+        height: 1080px;
+          transform: translateX(30.7%) translateY(-462%);
+          font-family: "Noto Sans KR", sans-serif;
+       }
+       .txt016{
+        width: 100%;
+        height: 1080px;
+          transform: translateX(30.7%) translateY(-540%);
+          font-family: "Noto Sans KR", sans-serif;
+       }
+       .txt017{
+        width: 100%;
+        height: 1080px;
+          transform: translateX(30.7%) translateY(-620.5%);
+          font-family: "Noto Sans KR", sans-serif;
+       }
+.block05{
+    width: 100%;
+    height: 1080px;
+    background-image: url(img/bg05.png);
+}
+.txt018{
+    width: 100%;
+    height: 1080px;
+    transform: translateX(40%) translateY(30%);
+    color: white;
+    font-family: "Noto Sans KR", sans-serif;
+}
+.txt019{
+    width: 100%;
+    height: 1080px;
+    transform: translateX(40%) translateY(-63%);
+    color: white; 
+    font-family: "Noto Sans KR", sans-serif;
+}
+.txt020{
+    width: 100%;
+    height: 1080px;
+    transform: translateX(40%) translateY(-150%);  
+    color: white;
+    font-family: "Noto Sans KR", sans-serif;
+}
+.txt021{
+    width: 100%;
+    height: 1080px;
+    transform: translateX(40%) translateY(-243%);
+    color: white;
+    font-family: "Noto Sans KR", sans-serif;  
+}
+.txt022{
+    width: 100%;
+    height: 1080px; 
+    transform: translateX(0%) translateY(2%);
+    font-family: "Noto Sans KR", sans-serif;
+      
+}
+.block06{
+    width: 100%;
+    height: 1080px;
+    background-image: url(img/bg06.png);
+}
+.txt023{
+    font-size: 25px;
+    width: 100%;
+    height: 1080px;
+    transform: translateX(5%) translateY(6%);
+    font-family: "Noto Sans KR", sans-serif;
+}
+.txt024{
+    font-size: 18px;
+    width: 100%;
+    height: 1080px;
+    transform: translateX(40%) translateY(-55%);
+    font-family: "Noto Sans KR", sans-serif;
+}
+.txt025{
+    font-size: 18px;
+    width: 100%;
+    height: 1080px;
+    transform: translateX(40%) translateY(-140%);
+    font-family: "Noto Sans KR", sans-serif;
+}
+.block07{
+    width: 100%;
+    height: 1080px;
+    background-image: url(img/bg07.png);
+}
+.txt026{
+    font-family: "Noto Sans KR", sans-serif;
+    transform: translateX(18%) translateY(1200%)
+}
+.txt027{
+    font-family: "Noto Sans KR", sans-serif;
+    transform: translateX(18%) translateY(450%)
+}
+.txt028{
+    font-family: "Noto Sans KR", sans-serif;
+    transform: translateX(95%) translateY(3950%)
+}
+
